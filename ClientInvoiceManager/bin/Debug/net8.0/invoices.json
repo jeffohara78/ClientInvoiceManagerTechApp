@@ -1,0 +1,16 @@
+[
+  {
+    "InvoiceId": 5001,
+    "ClientId": 1001,
+    "DateCreated": "2026-06-01T13:51:10.7121608-07:00",
+    "IsPaid": false,
+    "Items": [
+      {
+        "Description": "Workstation setup",
+        "Quantity": 4,
+        "UnitPrice": 150
+      }
+    ],
+    "DatePaid": null
+  }
+]

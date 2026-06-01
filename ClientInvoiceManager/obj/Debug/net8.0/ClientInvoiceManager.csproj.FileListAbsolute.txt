@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\bin\Debug\net8.0\ClientInvoiceManager.exe
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\bin\Debug\net8.0\ClientInvoiceManager.deps.json
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\bin\Debug\net8.0\ClientInvoiceManager.runtimeconfig.json
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\bin\Debug\net8.0\ClientInvoiceManager.dll
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\bin\Debug\net8.0\ClientInvoiceManager.pdb
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\ClientInvoiceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\ClientInvoiceManager.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\ClientInvoiceManager.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\ClientInvoiceManager.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\ClientInvoiceManager.dll
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\refint\ClientInvoiceManager.dll
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\ClientInvoiceManager.pdb
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\ClientInvoiceManager.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\ClientInvoiceManager\ClientInvoiceManager\obj\Debug\net8.0\ref\ClientInvoiceManager.dll
